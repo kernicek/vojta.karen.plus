@@ -22,8 +22,8 @@ author: Vojta Karen
 navbar-links:
   About Me: "aboutme"
   Projects:
-   - Herd: "herd"
-   - Future Gate: "future-gate"
+   - Herd: "projects/herd"
+   - Future Gate: "projects/future-gate"
   Links:
     - Boardgamegeek: "https://boardgamegeek.com/user/kernicek"
 
