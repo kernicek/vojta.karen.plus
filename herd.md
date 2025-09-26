@@ -4,7 +4,7 @@ title: Herd
 subtitle: Designing figurines for a board game
 ---
 
-I designed the figurines for the upcoming solo puzzle board game Herd from letibus design, designed by the incredibly talented Urban Blaž Glacar.
+I designed the figurines for the upcoming solo puzzle board game Herd from letibus design, created by the incredibly talented Urban Blaž Glacar.
 
 ### Resources
 
