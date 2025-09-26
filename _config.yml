@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: VojtaKaren+
 
 # Your name to show in the footer
 author: Vojta Karen
@@ -21,10 +21,10 @@ author: Vojta Karen
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  My Projects:
+   - Herd: "herd"
+  Links:
+    - Boardgamegeek: "https://boardgamegeek.com/user/kernicek"
 
 ################
 # --- Logo --- #
@@ -52,6 +52,7 @@ round-avatar: true
 social-network-links:
   email: "vojta@karen.plus"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  steam: kernicek
   facebook: vojtakaren
   github: kernicek
 #  medium: yourname
@@ -63,7 +64,6 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
