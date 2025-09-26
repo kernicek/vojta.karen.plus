@@ -21,7 +21,7 @@ author: Vojta Karen
 
 navbar-links:
   About Me: "aboutme"
-  My Projects:
+  Projects:
    - Herd: "herd"
    - Future Gate: "future-gate"
   Links:
