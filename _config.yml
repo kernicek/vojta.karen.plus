@@ -28,6 +28,7 @@ navbar-links:
    - Films: "interests/films"
    - TV Shows: "interests/tv-shows"
    - Cooking: "interests/cooking"
+   - Tech: "interests/tech"
    - 3D modelling: "interests/3d-modelling"
    - 3D printing: "interests/3d-printing"
   Projects:

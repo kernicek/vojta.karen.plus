@@ -17,5 +17,6 @@ I'm always excited about something, but the subject can change fairly quickly. B
  - Technology
  - Photography
  - Films and TV series
+ - Neurodiversity
 
 I also spend my time organizing some geeky festivals, like Future Gate and (in the past) Junktown.
