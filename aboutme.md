@@ -14,7 +14,7 @@ I'm always excited about something, but the subject can change fairly quickly. B
  - Playing video games
  - Cooking
  - 3D modelling, 3D printing and making things
- - Programming and tech
+ - Technology
  - Photography
  - Films and TV series
 
