@@ -21,6 +21,15 @@ author: Vojta Karen
 
 navbar-links:
   About Me: "aboutme"
+  Interests:
+   - Boardgames: "interests/boardgames"
+   - Videogames: "interests/videogames"
+   - Books: "interests/books"
+   - Films: "interests/films"
+   - TV Shows: "interests/tv-shows"
+   - Cooking: "interests/cooking"
+   - 3D modelling: "interests/3d-modelling"
+   - 3D printing: "interests/3d-printing"
   Projects:
    - Herd: "projects/herd"
    - Future Gate: "projects/future-gate"
