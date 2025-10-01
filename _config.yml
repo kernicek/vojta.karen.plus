@@ -34,8 +34,6 @@ navbar-links:
   Projects:
    - Herd: "projects/herd"
    - Future Gate: "projects/future-gate"
-  Links:
-    - Boardgamegeek: "https://boardgamegeek.com/user/kernicek"
 
 ################
 # --- Logo --- #
