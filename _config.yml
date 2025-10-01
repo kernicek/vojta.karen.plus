@@ -144,14 +144,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#FFFFFF" # "#F1F8ED"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#EAEAEA" # "#D6EBCA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "#EAEAEA" # "#D6EBCA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -182,7 +182,7 @@ footer-hover-col: "#0085A1"
 #gtag: "G-XXXXXXXXXX"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+cloudflare_analytics: "8c0ca914e190455c8d9d220fcc5f7f5a"
 
 # Google Tag Manager ID
 #gtm: ""
