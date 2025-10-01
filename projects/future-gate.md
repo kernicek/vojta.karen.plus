@@ -2,9 +2,8 @@
 layout: page
 title: Future Gate
 subtitle: Sci-fi film festival
+cover-img: /assets/img/future-gate-2025.png
 ---
-![Future Gate 2025 banner](assets/img/future-gate-2025.png){: .mx-auto.d-block :}
-
 
 Since 2024, I've been helping out with the organisation of the Future Gate sci-fi film festival, which takes place every year in cities around the Czech Republic.
 
