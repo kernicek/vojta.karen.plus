@@ -14,6 +14,15 @@
             "webRoot": "${workspaceFolder}",
             "preLaunchTask": "jekyll",
             "runtimeExecutable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Live Reload in Chrome",
+            "url": "http://localhost:4000",
+            "webRoot": "${workspaceFolder}",
+            "preLaunchTask": "jekyll_livereload",
+            "runtimeExecutable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
         }
     ]
 }
