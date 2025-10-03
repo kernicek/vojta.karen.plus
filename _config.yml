@@ -61,9 +61,10 @@ round-avatar: true
 social-network-links:
   email: "vojta@karen.plus"
   boardgamegeek: kernicek
+  discord: users/331881439396364289 # "invite_code" or "users/userid" or "invite/invite_code"
   steam: kernicek
   facebook: vojtakaren
-  github: kernicek
+#  github: kernicek
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -82,7 +83,6 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
