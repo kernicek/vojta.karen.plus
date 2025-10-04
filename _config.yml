@@ -34,8 +34,6 @@ navbar-links:
   Projects:
    - Herd: "projects/herd"
    - Future Gate: "projects/future-gate"
-  Links:
-    - Boardgamegeek: "https://boardgamegeek.com/user/kernicek"
 
 ################
 # --- Logo --- #
@@ -63,9 +61,10 @@ round-avatar: true
 social-network-links:
   email: "vojta@karen.plus"
   boardgamegeek: kernicek
+  discord: users/331881439396364289 # "invite_code" or "users/userid" or "invite/invite_code"
   steam: kernicek
   facebook: vojtakaren
-  github: kernicek
+#  github: kernicek
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -84,7 +83,6 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
@@ -144,14 +142,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#FFFFFF" # "#F1F8ED"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#008AFF" # "#557455"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#E4EBE4" # "#EAEAEA" # "#D6EBCA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "#E4EBE4" # "#EAEAEA" # "#D6EBCA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -182,7 +180,7 @@ footer-hover-col: "#0085A1"
 #gtag: "G-XXXXXXXXXX"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+cloudflare_analytics: "8c0ca914e190455c8d9d220fcc5f7f5a"
 
 # Google Tag Manager ID
 #gtm: ""

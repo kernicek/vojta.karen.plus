@@ -1,0 +1,63 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "jekyll",
+            "type": "shell",
+            "command": "bundle exec jekyll serve --trace --incremental",
+            "isBackground": true,
+            "problemMatcher":
+            {
+              "pattern": [
+                {
+                  "regexp": ".",
+                  "file": 1,
+                  "location": 2,
+                  "message": 3
+                }
+              ],
+              "background": {
+                "activeOnStart": true,
+                "beginsPattern": ".",
+                "endsPattern": ".",
+              }
+            }
+        },
+        {
+            "label": "jekyll_livereload",
+            "type": "shell",
+            "command": "bundle exec jekyll serve --trace --incremental --livereload",
+            "isBackground": true,
+            "problemMatcher":
+            {
+              "pattern": [
+                {
+                  "regexp": ".",
+                  "file": 1,
+                  "location": 2,
+                  "message": 3
+                }
+              ],
+              "background": {
+                "activeOnStart": true,
+                "beginsPattern": ".",
+                "endsPattern": ".",
+              }
+            }
+        }
+    ]
+}
+
+//taken from https://dev.to/hatamiarash7/how-to-launch-jekyll-project-in-vs-code-54hi
+/*{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "jekyll",
+      "command": "bundle exec jekyll serve",
+      "type": "shell"
+    }
+  ]
+}*/
